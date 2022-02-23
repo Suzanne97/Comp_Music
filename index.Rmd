@@ -1,7 +1,7 @@
 ---
 title: "How did my taste in music change?"
 author: "Suzanne Mulder"
-date: "16/02/2022"
+date: "February/March 2022"
 output: html_document
 ---
 
